@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logoMain.png" alt="MedVise Logo" width="150"/>
+  <img src="/assests/logoMain.png" alt="MedVise Logo" width="150"/>
 
   # MedVise: AI-Powered Medical Assistant
 
@@ -64,6 +64,20 @@ graph LR;
     F -->|Query| G(Medical Knowledge Graph);
     G -->|Update| H(Continuous Learning Pipeline);
 ```
+<div align="center">
+  <h1>MedVise: Home</h1>
+  <img src="/assests/logoMain.png" alt="MedVise Logo" width="500"/>
+  
+  <h1>MedVise: DashBoard</h1>
+  <img src="/assests/Dashboard.png" alt="MedVise Dashboard" width="500"/>
+  
+  <h1>MedVise: Login</h1>
+  <img src="/assests/Login.png" alt="MedVise Login" width="500"/>
+  
+  <h1>MedVise: Register</h1>
+  <img src="/assests/Register.png" alt="MedVise Register" width="500"/>
+</div>
+
 
 ## 🧠 AI Models
 
